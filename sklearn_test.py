@@ -16,3 +16,14 @@ clf = DecisionTreeClassifier(random_state=0)
 # st()
 # fig = px.scatter(df, x='chest_pain', y='heart_disease')
 # fig.show()
+
+
+# 0,0,0
+# 0,0,0
+# 0,0,1
+# 0,1,1
+# 0,0,1
+# 1,1,1
+# 0,0,2
+# 0,0,0
+# 0,1,0
