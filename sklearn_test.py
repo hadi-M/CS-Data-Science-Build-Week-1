@@ -2,6 +2,7 @@ from sklearn.tree import DecisionTreeClassifier
 import pandas as pd
 from ipdb import set_trace as st
 import plotly.express as px
+from datastructures import *
 
 df = pd.read_csv("./temp_data.csv")
 
